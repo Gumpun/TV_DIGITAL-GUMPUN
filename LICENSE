@@ -1,24 +1,35 @@
-This is free and unencumbered software released into the public domain.
+{
+"name": "Digital TV",
+"author": "แบ่งปันIPTV ",
+"image": " https://sv1.picz.in.th/images/2021/07/06/s8gtJq.png",
+"url": "https://raw.githubusercontent.com/Gumpun/Movies_TV-GUMPUN/main/LICENSE",
+"info": "ช่องทั้งหมดทางผู้จัดทำไม่ได้มีส่วนเกี่ยวข้องใดๆทั้งสิ้น เป็นเพียงผู้รวบรวมลิ้งค์จากเว็บไซต์ที่อยู่ใน World Wide Web ที่มีอยู่ในเว็บสาธารณะเท่านั้น และขอปฏิเสธความรับผิดชอบทุกกรณี",
+"stations": [
+{
+"name": " 6 July 2021 ",
+"image": "https://seo-web.aun-thai.co.th/wp-content/uploads/2018/01/update-1672353_960_720-e1516173341277.png",
+"url": "xxx",
+"info": " Gumpun แบ่งปันiptv ",
+"playInNatPlayer": "true"
+},
+{
+"name": "⭐GUMPUN IPTV⭐",
+"image":"https://sv1.picz.in.th/images/2021/07/06/s8g1hz.png",
+"url": "xxx",
+"referer": "xxxx",
+"info": " ขออภัยในความไม่สะดวกขณะนี้เรากำลังเพิ่มช่อง ",
+"playInNatPlayer": "true"
+},
+{
+"name": "xxx",
+"image":"xxx",
+"url": "xxx",
+"referer": " xxx ",
+"info": " Gumpun แบ่งปันIPTV ",
+"playInNatPlayer": "true"
+},
 
-Anyone is free to copy, modify, publish, use, compile, sell, or
-distribute this software, either in source code form or as a compiled
-binary, for any purpose, commercial or non-commercial, and by any
-means.
 
-In jurisdictions that recognize copyright laws, the author or authors
-of this software dedicate any and all copyright interest in the
-software to the public domain. We make this dedication for the benefit
-of the public at large and to the detriment of our heirs and
-successors. We intend this dedication to be an overt act of
-relinquishment in perpetuity of all present and future rights to this
-software under copyright law.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
-OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
-ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.
-
-For more information, please refer to <https://unlicense.org>
+]
+}
